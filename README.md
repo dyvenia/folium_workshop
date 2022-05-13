@@ -10,8 +10,7 @@ https://www.youtube.com/watch?v=t9Ed5QyO7qY&ab_channel=RyanNoonan
 This workshop has been organized to provide an overview of the Python ```folium``` library. The focus is on getting the idea of how it works and what are the possibilites. There are no advanced maps presented as this topic is too extensive to cover in a 60 minute meeting.
 
 ## How to prepare for the workshop
-1. Update your ```viadot```
-    Go to ```viadot\docker``` and run ```update.sh``` file. After successful update run ```run.sh```.
+1. Update your ```viadot``` by going to ```viadot\docker``` and run ```update.sh``` file. After successful update run ```run.sh```.
 2. Clone this repo to your viadot folder
 3. Open the repo in ```localhost:9000```
 
