@@ -24,7 +24,7 @@ Make sure that the package is installed by running ```!pip install folium```. Af
 
 You will also need to ```import pandas as pd```. The majority of work will be done using Python's native functions.
 
-## Useful links:
+## Useful links
 https://python-visualization.github.io/folium/index.html
 
 https://www.youtube.com/watch?v=t9Ed5QyO7qY&ab_channel=RyanNoonan
