@@ -1,10 +1,5 @@
 # folium_workshop
 
-## Useful links:
-https://python-visualization.github.io/folium/index.html
-
-https://www.youtube.com/watch?v=t9Ed5QyO7qY&ab_channel=RyanNoonan
-
 ## The purpose
 
 This workshop has been organized to provide an overview of the Python ```folium``` library. The focus is on getting the idea of how it works and what are the possibilites. There are no advanced maps presented as this topic is too extensive to cover in a 60 minute meeting.
@@ -28,3 +23,8 @@ Make sure that the package is installed by running ```!pip install folium```. Af
 - ```add_child()```
 
 You will also need to ```import pandas as pd```. The majority of work will be done using Python's native functions.
+
+## Useful links:
+https://python-visualization.github.io/folium/index.html
+
+https://www.youtube.com/watch?v=t9Ed5QyO7qY&ab_channel=RyanNoonan
