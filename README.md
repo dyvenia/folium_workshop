@@ -11,7 +11,7 @@ This workshop has been organized to provide an overview of the Python ```folium`
 
 ## How to prepare for the workshop
 1. Update your ```viadot``` by going to ```viadot\docker``` and run ```update.sh``` file. After successful update run ```run.sh```.
-2. Clone this repo to your viadot folder
+2. Clone this repo to your viadot folder ```git clone https://github.com/dyvenia/folium_workshop.git```
 3. Open the repo in ```localhost:9000```
 
 ## Working with folium
