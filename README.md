@@ -19,6 +19,8 @@ Make sure that the package is installed by running ```!pip install folium```. Af
 - ```folium.plugins.FeatureGroupSubGroup()```
 - ```folium.map.LayerControl()```
 - ```folium.Icon()```
+- ```folium.Popup()```
+- ```folium.Html()```
 - ```add_to()```
 - ```add_child()```
 
